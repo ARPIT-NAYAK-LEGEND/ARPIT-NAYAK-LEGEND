@@ -1,6 +1,7 @@
 # 💫 About Me:
 I'm currently working on Quant and graphs<br>Trying to enter fintech with a problem starting from my own college.<br>proficient in C++, Python, Flutter<br>Have experience in developing deploying ML Models, Training sets, <br>Full stack development, Data Analysis and Science
-<br>portfolio: arpitnayak.netlify.app
+
+portfolio: arpitnayak.netlify.app
 
 
 # 💻 Tech Stack:
@@ -12,5 +13,3 @@ I'm currently working on Quant and graphs<br>Trying to enter fintech with a prob
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ARPIT-NAYAK-LEGEND&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
