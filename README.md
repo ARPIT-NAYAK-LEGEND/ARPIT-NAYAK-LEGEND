@@ -1,15 +1,223 @@
-# 💫 About Me:
-I'm currently working on Quant and graphs<br>Trying to enter fintech with a problem starting from my own college.<br>proficient in C++, Python, Flutter<br>Have experience in developing deploying ML Models, Training sets, <br>Full stack development, Data Analysis and Science
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b27,60:2d333b,100:161b22&height=200&section=header&text=&fontSize=0&animation=fadeIn" />
 
-portfolio: arpitnayak.netlify.app
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/ARPIT-NAYAK-LEGEND/ARPIT-NAYAK-LEGEND/main/logo.png" width="150" alt="Arpit Nayak Logo" />
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ARPIT-NAYAK-LEGEND&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ARPIT-NAYAK-LEGEND&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ARPIT-NAYAK-LEGEND&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/><br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=ARPIT-NAYAK-LEGEND&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=100&size=32&letterSpacing=10px&duration=4000&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=false&width=520&height=50&lines=ARPIT+NAYAK" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=13&letterSpacing=3px&duration=3000&pause=800&color=8b949e&center=true&vCenter=true&repeat=true&width=700&height=30&lines=systems+engineer+%C2%B7+quantitative+researcher+%C2%B7+open+source+contributor;iit+madras+%C2%B7+bs+data+science+%C2%B7+20+years+old;building+things+that+survive+production" />
+
+<br/><br/>
+
+<a href="https://arpitnayak.netlify.app"><img src="https://img.shields.io/badge/portfolio-e6edf3?style=for-the-badge&logo=googlechrome&logoColor=0d1117" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/the-arpit-nayak/"><img src="https://img.shields.io/badge/linkedin-e6edf3?style=for-the-badge&logo=linkedin&logoColor=0d1117" /></a>&nbsp;
+<a href="mailto:arpitpupu@outlook.com"><img src="https://img.shields.io/badge/email-e6edf3?style=for-the-badge&logo=gmail&logoColor=0d1117" /></a>&nbsp;
+<a href="https://arpitnayak.netlify.app/blogs"><img src="https://img.shields.io/badge/blog-e6edf3?style=for-the-badge&logo=hashnode&logoColor=0d1117" /></a>&nbsp;
+<a href="https://drive.google.com/file/d/1Ez2fVc6iRMQoTaczjwBvCHQzb6La9Yag/view?usp=sharing"><img src="https://img.shields.io/badge/résumé-e6edf3?style=for-the-badge&logo=readdotcv&logoColor=0d1117" /></a>
+
+<br/><br/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════ -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### &nbsp;&nbsp;📡&nbsp; Status
+
+```yaml
+location:    India
+education:   BS Data Science — IIT Madras
+focus:       Low-latency systems & quantitative finance
+open_source:
+  - VLC Media Player (3B+ downloads)
+  - Joplin (50K+ ★)
+status:      Available for collaboration
+```
+
+</td>
+<td width="50%" valign="top">
+
+### &nbsp;&nbsp;⚙️&nbsp; Core Stack
+
+```
+   ╭──────────────────────────────────────╮
+   │                                      │
+   │   C++  ·  Python  ·  TypeScript      │
+   │   Kotlin  ·  Bash                    │
+   │                                      │
+   │   React  ·  FastAPI  ·  Next.js      │
+   │   PyTorch  ·  Docker  ·  AWS         │
+   │   PostgreSQL  ·  Redis  ·  Linux     │
+   │                                      │
+   ╰──────────────────────────────────────╯
+```
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════ -->
+
+<br/>
+
+<div align="center">
+
+```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#161b22', 'primaryTextColor': '#e6edf3', 'primaryBorderColor': '#30363d', 'lineColor': '#8b949e', 'secondaryColor': '#161b22', 'tertiaryColor': '#161b22', 'fontSize': '14px'}}}%%
+
+graph LR
+    A["🧠 Research"] --> B["⚡ Systems"]
+    A --> C["📊 Quantitative"]
+    B --> D["C++ · Low Latency"]
+    B --> E["Docker · Linux · AWS"]
+    C --> F["PyTorch · Transformers"]
+    C --> G["Financial Modeling"]
+    D --> H["🚀 Production"]
+    E --> H
+    F --> H
+    G --> H
+
+    style A fill:#161b22,stroke:#58a6ff,stroke-width:2px,color:#e6edf3
+    style B fill:#161b22,stroke:#f78166,stroke-width:2px,color:#e6edf3
+    style C fill:#161b22,stroke:#d2a8ff,stroke-width:2px,color:#e6edf3
+    style D fill:#0d1117,stroke:#30363d,color:#8b949e
+    style E fill:#0d1117,stroke:#30363d,color:#8b949e
+    style F fill:#0d1117,stroke:#30363d,color:#8b949e
+    style G fill:#0d1117,stroke:#30363d,color:#8b949e
+    style H fill:#238636,stroke:#2ea043,stroke-width:2px,color:#ffffff
+```
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ -->
+
+<details>
+<summary><b>&nbsp;&nbsp;🔬&nbsp; Deep Dive — What I Actually Do</b></summary>
+
+<br/>
+
+```
+I build systems at the intersection of performance engineering and
+machine learning. My work spans from sub-microsecond trading pipelines
+in C++ to multi-agent AI orchestration systems.
+
+When I'm not optimizing hot paths, I'm writing about systems design,
+quantitative finance, and whatever rabbit hole I fell into at 3 AM.
+
+Open source is non-negotiable. I've shipped code to VLC Media Player
+(C/C++ pipeline, 3B+ downloads) and built features for Joplin
+(Settings Search, 50K+ ★ on GitHub).
+
+I write daily. Not for engagement — for understanding.
+```
+
+<br/>
+
+</details>
+
+<details>
+<summary><b>&nbsp;&nbsp;🛠&nbsp; Full Arsenal</b></summary>
+
+<br/>
+
+<div align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,typescript,javascript,kotlin,bash&theme=dark" />
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,fastapi,django,flask&theme=dark" />
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mongodb,redis,docker,aws,linux&theme=dark" />
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=nginx,git,prisma,electron,netlify,github,vscode,figma&theme=dark" />
+</p>
+</div>
+
+<br/>
+
+</details>
+
+<details>
+<summary><b>&nbsp;&nbsp;✍️&nbsp; Latest Writing</b></summary>
+
+<br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp;&nbsp;[**arpitnayak.netlify.app/blogs**](https://arpitnayak.netlify.app/blogs)
+
+&nbsp;&nbsp;&nbsp;&nbsp;I write daily about systems architecture, quantitative finance,
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;performance engineering, and developer experience.
+
+<br/>
+
+</details>
+
+<!-- ═══════════════════════════════════════════════════ -->
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/ARPIT-NAYAK-LEGEND">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ARPIT-NAYAK-LEGEND&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e&text_color=8b949e&ring_color=58a6ff&include_all_commits=true&count_private=true&hide_title=false&custom_title=Metrics" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARPIT-NAYAK-LEGEND&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=8&custom_title=Languages" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/ARPIT-NAYAK-LEGEND">
+<img src="https://nirzak-streak-stats.vercel.app/?user=ARPIT-NAYAK-LEGEND&hide_border=true&background=0d1117&ring=58a6ff&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&dates=545d68&stroke=21262d&currStreakNum=e6edf3&sideNums=8b949e" />
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ARPIT-NAYAK-LEGEND&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&area_color=161b22&area=true&hide_border=true&custom_title=Contribution%20Velocity" />
+
+<br/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════ -->
+
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ARPIT-NAYAK-LEGEND/ARPIT-NAYAK-LEGEND/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ARPIT-NAYAK-LEGEND/ARPIT-NAYAK-LEGEND/output/github-snake.svg" />
+  <img alt="contribution graph" src="https://raw.githubusercontent.com/ARPIT-NAYAK-LEGEND/ARPIT-NAYAK-LEGEND/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ARPIT-NAYAK-LEGEND&style=for-the-badge&color=161b22&labelColor=161b22&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
+
+<br/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,30:2d333b,60:1a1b27,100:0d1117&height=120&section=footer" />
